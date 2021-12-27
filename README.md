@@ -15,7 +15,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbnerino&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbnerino&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbnerino)](https://solved.ac/bbnerino)   
 
