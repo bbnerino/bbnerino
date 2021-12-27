@@ -15,8 +15,8 @@
 <img src="https://img.shields.io/badge/Blender-F5792A?style=flat-square&logo=Blender&logoColor=yellow"/>
 <img src="https://img.shields.io/badge/C sharp-239120?style=flat-square&logo=C sharp&logoColor=orange"/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hojeong33&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbnerino&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=jhj20071)](https://solved.ac/jhj20071)   
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbnerino)](https://solved.ac/bbnerino)   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hojeong33&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbnerino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
