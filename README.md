@@ -16,6 +16,5 @@
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbnerino&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Anurag's GitHub stats](https://camo.githubusercontent.com/a7b24d894956141a6fc22aaba2f9bedaf5b9314ea58765e1c66f35363fdb4a8f/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d616e7572616768617a72612673686f775f69636f6e733d7472756526686964653d636f6e74726962732c7072732663616368655f7365636f6e64733d3836343030267468656d653d736f6c6172697a65642d6c69676874]
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbnerino)](https://solved.ac/bbnerino)   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbnerino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
