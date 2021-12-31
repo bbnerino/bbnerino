@@ -3,7 +3,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bbnerino@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/hihyunhong-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hi_h_hong)
 #### I'm hyunhong 
-## 🔧Stacks
+## 🔧Stack
 
 #### Techs that I've used at least once
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
