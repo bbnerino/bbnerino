@@ -20,7 +20,7 @@
 
 ### Projects Repository
 - Ncity : NFT를 통해 작품,음악,캐릭터를 사용하는 메타버스 게임 플랫폼 [SSAFY 최우수상]
-  - https://github.com/bbnerino/Ncity
+  - [https://github.com/bbnerino/Ncity](https://github.com/bbnerino/N-city)
   - React, Typescript, Recoil, React-qeury, Redux, Phaser3.js
   - 2021.03
 - 슬기로운세탁 : 세탁택을 인식해 세탁물을 관리하는 세탁정보 제공 플랫폼 [SSAFY 우수상]
