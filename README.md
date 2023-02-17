@@ -46,8 +46,6 @@
 - Next.js
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=bbnerino&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbnerino)](https://solved.ac/bbnerino)   
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bbnerino&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
