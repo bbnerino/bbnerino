@@ -23,22 +23,28 @@
   - [https://github.com/bbnerino/Ncity](https://github.com/bbnerino/N-city)
   - React, Typescript, Recoil, React-qeury, Redux, Phaser3.js
   - 2021.03
+
 - 슬기로운세탁 : 세탁택을 인식해 세탁물을 관리하는 세탁정보 제공 플랫폼 [SSAFY 우수상]
   - https://github.com/bbnerino/Wise-Laundry 
   - React, Typescript, Recoil
   - 2021.05 
-- 티칭마스터 : 초등학생 대상의 유저친화적인 UI와, 퀴즈 출제가 가능한 화상회의 플랫폼 
-  - https://github.com/bbnerino/TeachingMaster
-  - React, Openvidu
-  - 2021.02
-- JOIMUS : 좋아하는 배우에 따라 영화를 추천해주는 영화 정보 제공 플랫폼
-  - https://github.com/bbnerino/JOIM-US
-  - Vue, Django
-  - 2020.12
+
 - 날꾸 : 선택에 따라 다른 날씨 정보를 보여주는 플랫폼 
   - http://날꾸.shop
   - 배포 담당
   - https://github.com/bbnerino/nal-ggu
+  - 2022.10
+  
+- 티칭마스터 : 초등학생 대상의 유저친화적인 UI와, 퀴즈 출제가 가능한 화상회의 플랫폼 
+  - https://github.com/bbnerino/TeachingMaster
+  - React, Openvidu
+  - 2021.02
+
+- JOIMUS : 좋아하는 배우에 따라 영화를 추천해주는 영화 정보 제공 플랫폼
+  - https://github.com/bbnerino/JOIM-US
+  - Vue, Django
+  - 2020.12
+
   
 #### 다음과 같은 공부를 하고 있어요 
 - Spring 
