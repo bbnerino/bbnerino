@@ -47,9 +47,9 @@
 
   
 #### 다음과 같은 공부를 하고 있어요 
-- Spring 
-- Node.js 
 - Next.js
+- Nest.js (Node.js)
+- Spring 
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbnerino)](https://solved.ac/bbnerino)   
