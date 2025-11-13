@@ -1,6 +1,5 @@
 
 ## 👋 Hi there! 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fbbnerino&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:bbnerino@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/hihyunhong-E4405F?style=flat&logo=Instagram&logoColor=white)](https://www.instagram.com/hi_h_hong)
 #### I'm hyunhong 
@@ -18,7 +17,7 @@
 <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>
 
 
-### Projects Repository
+### Projects Repository(SSAFY)
 - Ncity : NFT를 통해 작품,음악,캐릭터를 사용하는 메타버스 게임 플랫폼 [SSAFY 최우수상]
   - [https://github.com/bbnerino/Ncity](https://github.com/bbnerino/N-city)
   - React, Typescript, Recoil, React-qeury, Redux, Phaser3.js
@@ -29,12 +28,6 @@
   - React, Typescript, Recoil
   - 2021.05 
 
-- 날꾸 : 선택에 따라 다른 날씨 정보를 보여주는 플랫폼 
-  - http://날꾸.shop
-  - 배포 담당
-  - https://github.com/bbnerino/nal-ggu
-  - 2022.10
-  
 - 티칭마스터 : 초등학생 대상의 유저친화적인 UI와, 퀴즈 출제가 가능한 화상회의 플랫폼 
   - https://github.com/bbnerino/TeachingMaster
   - React, Openvidu
@@ -44,12 +37,6 @@
   - https://github.com/bbnerino/JOIM-US
   - Vue, Django
   - 2020.12
-
-  
-#### 다음과 같은 공부를 하고 있어요 
-- Next.js
-- Nest.js (Node.js)
-- Spring 
 
 
 [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=bbnerino)](https://solved.ac/bbnerino)   
